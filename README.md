@@ -1,9 +1,13 @@
-# sloping_slab
+## A Numerical Investigation of Bedrock Groundwater Recharge and Exfiltration on Soil Mantled Hillslopes. 
+
+### W. Payton Gardner1, Kelsey Jensco2, Zachary Hoylman2, Robert Livesay2, Marco Maneta3
+
+<br>
 
 This is a repository to do some soil water well data analysis and plotting for a manuscript (Gardner et al., ~2020) currently being prepared for Water Resources Research. 
 
-A Numerical Investigation of Bedrock Groundwater Recharge1and Exfiltration on Soil Mantled Hillslopes. W. Payton Gardner1, Kelsey Jensco2, Zachary Hoylman2, Robert Livesay2, Marco Maneta3
+<br>
 
-Working Abstract:
+#### Working Abstract:
 
 Groundwater circulation and the dynamic interaction between soil and bedrock flow systems in upland catchments remains some of the least understood processes of the hydrologic cycle.  Here we use models of variably saturated soil and bedrock groundwater flow to investigate first order patterns of the coupling between soil and bedrock flow systems.  We utilize a steady-state Monte Carlo sensitivity analysis to identify important hillslope parameters (bedrock-soil hydraulic parameters and slope angle) controlling bedrock recharge and the connectivity between soil and bedrock groundwater flow systems. We then modeled the transient response of bedrock and soil flow to seasonal precipitation for two different hillslopes with boundary conditions and subsurface properties derived from watersheds we have been studying in Western Montana. We found that bedrock permeability was a first order control on bedrock groundwater circulation but also significantly influences the degree of upslope soil saturation. Our results suggest that hillslopes can be divided into three conceptual zones of groundwater interaction, 1) the zone of lateral unsaturated soil moisture accumulation (upper portion of hillslope), 2) the zone of soil saturation and bedrock recharge (middle of hillslope) and 3) the zone of saturated-soil lateral flow and  bedrock groundwater exfiltration (bottom of hillslope).  The amount of water partitioned to the bedrock groundwater system can be predicted by the ratio of bedrock to soil permeability. The location and extent of these zones on the hillslope are strongly controlled by the contrast in soil and bedrock hydraulic parameters.   The location of maximum recharge can be predicted by the upslope extent of saturated soil.  Zones of groundwater interaction expand upslope during periods of precipitation and drain downslope during dry periods.  Our modeled processes are qualitatively consistent with observations of shallow subsurface saturation and groundwater fluctuation on hillslopes studied in our two experimental watersheds.  We propose a new conceptual model of tightly coupled shallow and deep subsurface circulation, where groundwater recharge and discharge continuously stores and releases water from long residence time storage.  This coupling is important for estimating mountain block recharge and characterizing the effect of bedrock groundwater on watershed residence times, soil saturation and stream flow dynamics at the hillslope scale and beyond.
